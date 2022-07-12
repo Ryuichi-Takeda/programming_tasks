@@ -1,2 +1,13 @@
-# programming_tasks
-describe the plan of studying programming
+# ph3全体として
+8月月中Quizy,9月中にwebappを終わらせる。
+
+# 7/27~7/31
+<!-- 7/26にテストが終わるため -->
+コードを触りつつinputの理解を固める。今までの自分や他の人のPRを見て指摘されたところと、自分の現状を把握する。
+<!-- 朝香などテスト終わった人とHarborsに行きたい -->
+
+# 8/1~8/7
+week39まで終わらせて遅れを解消する。
+
+
+
